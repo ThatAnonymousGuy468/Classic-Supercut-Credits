@@ -119,6 +119,7 @@ Man Who Sold the World: https://en.wikipedia.org/wiki/The_Man_Who_Sold_the_World
 Why Fallout Lost Its Original Artstyle: https://www.youtube.com/watch?v=AwZyY_dVXME
 
 Analyzing Evil: Todd Howard: https://www.youtube.com/watch?v=5PyK4eJDb8M
+
 Jason: https://rpgcodex.net/forums/threads/chris-avellone-obsidian-made-multiple-proposals-to-develop-spin-offs-for-fallout-and-the-elder-scrolls-which-were-turned-down-by-bethesda.149132/
 
 Nevada Band: https://fallout-nevada.ucoz.ru/
@@ -162,6 +163,7 @@ Pipboy Images: https://fallout.fandom.com/wiki/Pip-Boy_(character)
 Vault Boy: https://fallout.fandom.com/wiki/Vault_Boy?file=Vault_Boy_concept.jpg
 
 Vault Boy 2000: https://fallout.wiki/wiki/Vault_Boy_2000_Plushie
+
 Fallout: https://www.ebay.com/itm/225724746003
 
 Vault 13: https://fallout.fandom.com/wiki/Vault_13:_A_GURPS_Post-Nuclear_Adventure
